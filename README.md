@@ -21,3 +21,7 @@ are some more additional changes!
 # Guard
 
 There should be a bouncer present
+
+# Music
+
+Octopi love fun music to jam to
