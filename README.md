@@ -21,3 +21,7 @@ are some more additional changes!
 # Guard
 
 There should be a bouncer present
+
+# Games
+
+There should be drinking games!
