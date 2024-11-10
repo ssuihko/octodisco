@@ -25,3 +25,7 @@ There should be a bouncer present
 # Music
 
 Octopi love fun music to jam to
+
+# Games
+
+There should be drinking games!
