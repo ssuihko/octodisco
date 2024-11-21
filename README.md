@@ -41,3 +41,7 @@ Lines 33 to 35 have overlapping changes
 # BRANCH C2
 
 changes to this branch from C2
+
+# BRANCH C
+
+Changes from branch C
