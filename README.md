@@ -37,3 +37,7 @@ Lines 33 - 35 have overlapping things to say.
 # BRANCH a
 
 Lines 33 to 35 have overlapping changes
+
+# other changes here
+
+will conflict
